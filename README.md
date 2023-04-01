@@ -30,7 +30,7 @@ This study generally aims to make use of newer algorithms such as PythonAF (Pyth
 
 */web_app* - Thesis environment frontend and backend
 
-*/doc* - Thesis manuscript and Manual
+*/docs* - Thesis manuscript and Manual
 
 
 
