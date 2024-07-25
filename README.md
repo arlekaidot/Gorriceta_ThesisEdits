@@ -4,15 +4,6 @@ Coronavirus or Covid-19 was initially reported to the World Health Organization 
 
 This study generally aims to make use of newer algorithms such as PythonAF (Python Automatic Forecasting) to forecast future positivity rates, utilizing Multiple Linear Regression.
 
->test
-
->test
-
->test
-
->test
-
->test
 
 <h1> Group members </h1>
 
